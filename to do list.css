@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to right, aqua, pink );
+
+    text-align: center;
+
+}
+
+header{
+    font-size: 50px;
+    color: brown;
+    font-weight: bold;
+}
+#inputfield{
+    height: 40px;
+    margin: 70px;
+}
+#textinput{
+    width: 50%;
+    height: 100%;
+}
+li{
+    list-style-type: none;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+#addicon{
+    font-size: 35px;
+        
+}
+.newentry{
+    width: 40%;
+    margin-top: auto;
+    height: 32px;
+}
+#addbutton{
+    height: 35px;
+}
+.fa fa-check{
+    font-size: 35px;
+}
